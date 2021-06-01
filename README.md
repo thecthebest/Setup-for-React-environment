@@ -20,5 +20,5 @@ Run this command to execute the React application myfirstreact:
 
 ![React APP!](https://www.w3schools.com/react/screenshot_myfirstreact.png "Newly created React App Window")
 ***
-for more details click on the following:
+For more details click on the following:
 <https://www.w3schools.com/react/default.asp>
